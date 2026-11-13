@@ -1,0 +1,18 @@
+#dependencias
+node_modules/
+
+#arquivos compilados
+dist/
+
+#env
+.env
+.env.*
+
+#env ex permitido
+!.env.example
+
+#logs
+*.log
+
+#arquivos temp
+.DS_Store
